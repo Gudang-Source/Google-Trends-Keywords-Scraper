@@ -1,14 +1,15 @@
 
 
-## Google Trends Keywords Scraper 
+## Google Trend
  
-Last Update 12-08-2022 , 18:49:30
+Last Update 30-10-2022 , 10:57:22
 
 Country List :
  Name  | Keyword |
 | ------------- | ------------- |
-| VIETNAM | Lý Nhã Kỳ,Big Mouse,Cat,TP.HCM đấu với Bình Định,Nam Em,Lê Âu Ngân Anh,Hạ cánh khẩn cấp,Diệp Lâm Anh,Mưa sao băng,Bông hồng cài áo,Trà My Idol,Puka,Hiền Thục,Chồng cũ vợ cũ người yêu cũ tập 31,Victoria Beckham,Vu Lan 2022,Sai lầm,Oneplus 10t,Băng Vũ Hỏa,Thủ môn Đặng Văn Lâm |
+| VIETNAM | Halloween,T1 vs JDG,Real Madrid – Girona,Paris Saint-Germain,Ký ức vui vẻ,Jin (BTS,Tot,Hương Giang,Neuer,Gisele bündchen,Leicester – Man City,Brighton – Chelsea,Bournemouth – Tottenham,Liverpool – Leeds,Fulham – Everton,Man City,Valencia – Barcelona,Halloween ngày mấy,Man Utd – West Ham,Pau FC |
 
 
 
-© Abdul Muttaqin 
+© [Bagus Budi Satoto](https://github.com/bagussatoto) <br>
+© [Bagus Budi Satoto](https://github.com/bagussatoto)
